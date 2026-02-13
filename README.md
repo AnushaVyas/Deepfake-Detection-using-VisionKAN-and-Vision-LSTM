@@ -8,6 +8,8 @@ Problem Statement:
 
 DeepFake technologies are increasingly used to generate manipulated media, posing serious risks in misinformation, cybersecurity, and digital identity verification. This project focuses on developing a robust detection pipeline capable of identifying facial manipulations across image sequences.
 
+Project Report: docs/Report.pdf
+
 Dataset:
 
 Dataset: DFDC (DeepFake Detection Challenge)
